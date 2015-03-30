@@ -1,0 +1,2 @@
+Use EEG headset to measure brain activity while meditating.
+Store the interval chime setting in the database.
